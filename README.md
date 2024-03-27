@@ -1,7 +1,12 @@
 #修改一下
 作为练习用
 033L
+<<<<<<< HEAD
 hello
+=======
+016g
+
+>>>>>>> 2fcf40a3fb4bea90847a14aca7e9279ffc6df4fc
 # R语言在心理学研究中的应用 (R for psychological research)
 
 ## 关于(About)
