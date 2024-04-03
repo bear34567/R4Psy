@@ -2,8 +2,11 @@
 作为练习用
 033L
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
+=======
+>>>>>>> f77a9ecd042cf15a674c601bdcc369e4dc38c808
 016g
 
 >>>>>>> 2fcf40a3fb4bea90847a14aca7e9279ffc6df4fc
